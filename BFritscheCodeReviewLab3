@@ -1,0 +1,8 @@
+Is the code generally readable and well-documented?
+- The code is well written and easy to read, however, there were few comments throughout, making it hard to tell what does what.
+Did you find any software defects?
+- The program gave me an error upon running, saying the database was unable to be reached, and it also did not let me search for states, however, this may only be a problem on my end.
+What was one way that their solution differed from yours?
+- Jake’s form uses a grid data view to display states, and also has a search bar to search for states. Mine used a combobox that had states in and would go to a separate form to show the data.
+Do you have any other constructive comments for the author?
+- Although this program didn’t work for me, it looks well done! The only thing I would suggest would be to add more comments next time, but good job nonetheless!
